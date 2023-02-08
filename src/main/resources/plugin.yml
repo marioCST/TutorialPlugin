@@ -1,0 +1,5 @@
+name: ENTutorial
+main: de.mariocst.entutorial.Main
+version: 1.0
+api: 1.0.13
+description: The english plugin tutorial
