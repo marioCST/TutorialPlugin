@@ -3,3 +3,13 @@
 
 server/
 .idea/
+
+*.iml
+
+*.classpath
+
+*.jar
+*.tar.gz
+*.tar
+*.log
+*.txt
